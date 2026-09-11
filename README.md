@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web application that predicts student marks based on user-provided information.
 
-The project demonstrates how data science and machine learning can be combined with Streamlit to turn a prediction model into a simple, interactive web application.
+The project demonstrates how data science and machine learning can be combined with Streamlit to turn a prediction model into a simple, interactive web application. This is a linear regression project.
 
 
 ## About the Project
@@ -35,6 +35,7 @@ This project helped me understand the complete basic machine-learning workflow:
 * **Machine Learning**
 * **Pandas**
 * **Scikit-learn**
+* **Linear Regression**
 
 
 ## How It Works
@@ -75,6 +76,7 @@ Through this project, I developed experience with:
 * using Python for data science
 * working with machine-learning models
 * accepting and processing user input
+* understanding what linear regression is
 * connecting a model to a web interface
 * creating interactive applications with Streamlit
 * deploying a data-science project online
